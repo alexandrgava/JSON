@@ -1,6 +1,11 @@
-	"name":"Gava Alexandr"
-	"AGE": 53
-	"Pets": 2"Cat's"
-	"Junior pet":"Sobaka"
-	"Senior":"Direktor"
+{
+	"name":"Gava Alexandr",
+	"AGE":53,
+	"Pets":2"Cats",
+	"pet names":
+	[
+	{"name_1":"Sobaka"},
+{"name_2":"Director}"
+	],
 	"desired Salary": "bigger is better"
+}
