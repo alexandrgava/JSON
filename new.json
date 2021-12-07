@@ -4,8 +4,8 @@
 	"Pets":2"Cats",
 	"pet names":
 	[
-	{"name_1":"Sobaka"},
-{"name_2":"Director}"
+	"name_1":"Sobaka",
+	"name_2":"Director"
 	],
 	"desired Salary": "bigger is better"
 }
