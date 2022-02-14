@@ -1,11 +1,11 @@
 {
 	"name":"Gava Alexandr",
 	"AGE":53,
-	"Pets":2"Cats",
+	"Pets":"2Cats",
 	"pet names":
 	[
-	"name_1":"Sobaka",
-	"name_2":"Director"
+	"Sobaka",
+	"Director"
 	],
 	"desired Salary": "bigger is better"
 }
